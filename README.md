@@ -8,15 +8,7 @@ The objective of this project is to predict the presence of coronary heart disea
 Target Variable:
 - chd
 
-Features:
-- sbp
-- tobacco
-- ldl
-- adiposity
-- famhist
-- typea
-- obesity
-- alcohol
-- age
+Features(9):
+- sbp, tobacco, ldl, adiposity, famhist, typea, obesity, alcohol, age
 ## Methods
 ## Key Results
